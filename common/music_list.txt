@@ -1,0 +1,564 @@
+1 	 A Sacred Lot 
+1 	 永远之巫女 
+1 	 The Positive and Negative 
+1 	 Highly Responsive to Prayers 
+1 	 东方怪奇谈 
+1 	 天使传说 
+1 	 Oriental Magician 
+1 	 破邪的小太刀 
+1 	 魔镜 
+1 	 The Legend of KAGE 
+1 	 来吧，直到倒地死去的那一刻 
+1 	 同归于尽 
+1 	 星幽剑士 
+1 	 鸢尾花 
+1 	 风之神社 
+2 	 东方封魔录　～净土曼荼罗 
+2 	 博丽　～Eastern Wind 
+2 	 She's in a temper!! 
+2 	 End of Daylight 
+2 	 黑暗的力量 
+2 	 幻梦界 
+2 	 以死相赌 
+2 	 神篱，如紫色火焰般燃烧 
+2 	 恋色Magic 
+2 	 东方封魔录　～幽幻乱舞 
+2 	 Complete Darkness 
+2 	 Extra Love 
+2 	 战车娘所做的梦 
+2 	 远野之森 
+2 	 传说中的仙境 
+2 	 博丽神社境内 
+2 	 夕阳下落 
+2 	 封魔终演 
+3 	 梦想超越时空 
+3 	 Selection 
+3 	 东方妖恋谈 
+3 	 Reincarnation 
+3 	 Dim. Dream 
+3 	 Tabula rasa　～ 空白少女 
+3 	 Maniacal Princess 
+3 	 梦消失　～ Lost Dream 
+3 	 梦幻游戏　～ Dream War 
+3 	 魔法决战！　～ Fight it out! 
+3 	 Sailor of Time 
+3 	 Strawberry Crisis!! 
+3 	 非统一魔法世界论 
+3 	 魔法钟爱 
+3 	 久远之梦 
+3 	 东方的蓝色天空 
+3 	 永远的满月 
+3 	 Maple Dream... 
+3 	 灵人的休息日 
+3 	 胜利的示范 
+3 	 Game Over 
+3 	 时之风 
+3 	 Starbow Dream 
+3 	 Phantasmagoria 
+4 	 「ZUN Soft」表示音 
+4 	 幻想乡　～ Lotus Land Story 
+4 	 Witching Dream 
+4 	 Selene's light 
+4 	 装饰战　～ Decoration Battle 
+4 	 Break the Sabbath 
+4 	 红响曲　～ Scarlet Phoneme 
+4 	 Bad Apple!! 
+4 	 灵战　～ Perdition crisis 
+4 	 Alice Maestra 
+4 	 少女绮想曲　～ Capriccio 
+4 	 星之器　～ Casket of Star 
+4 	 Lotus Love 
+4 	 沉睡的恐怖　～Sleeping Terror 
+4 	 Dream Land 
+4 	 幽梦　～ Inanimate Dream 
+4 	 不可不禁止的游戏 
+4 	 女仆幻想　～ Icemilk Magic 
+4 	 可爱的恶魔　～ Innocence 
+4 	 Days 
+4 	 Peaceful 
+4 	 Arcadian Dream 
+4 	 幻想的居民 
+4 	 Lotus Road 
+4 	 Dreamy pilot 
+4 	 Incomplete Plot 
+4 	 Border Land 
+4 	 Magic Shop of Raspberry 
+4 	 Crescent Dream 
+5 	 怪绮谈　～ Mystic Square 
+5 	 Dream Express 
+5 	 魔法阵　～ Magic Square 
+5 	 梦想时空 
+5 	 灵天　～ Spiritual Heaven 
+5 	 Romantic Children 
+5 	 Plastic Mind 
+5 	 Maple Wise 
+5 	 禁忌的魔法　～ Forbidden Magic 
+5 	 绯红的少女　～ Crimson Dead!! 
+5 	 背叛的少女　～ Judas Kiss 
+5 	 the Last Judgement 
+5 	 可悲的人偶　～ Doll of Misery 
+5 	 世界的尽头　～ World's End 
+5 	 神话幻想　～ Infinite Being 
+5 	 不可思议之国的爱丽丝 
+5 	 the Grimoire of Alice 
+5 	 神社 
+5 	 Endless 
+5 	 永远的乐园 
+5 	 Mystic Dream 
+5 	 Peaceful Romancer 
+5 	 灵魂安息之所 
+6 	 Plastic Space 
+6 	 Inventive City 
+6 	 Frontal Attack 
+7 	 秋霜玉　～ Clockworks 
+7 	 False Strawberry 
+7 	 Primrose Shiver 
+7 	 幻想帝都 
+7 	 Disastrous Gemini 
+7 	 华之幻想 红梦之宙 
+7 	 天空军团 
+7 	 斯普特尼克幻夜 
+7 	 机械马戏团　～ Reverie 
+7 	 卡纳维拉尔角的梦幻少女 
+7 	 魔法少女十字军 
+7 	 Antique Terror 
+7 	 梦机械　～ Innocent Power 
+7 	 幻想科学　～ Doll's Phantom 
+7 	 少女神性　～ Pandora's Box 
+7 	 Silk Road Alice 
+7 	 魔女们的舞会　～ Magus 
+7 	 二色莲花蝶　～ Ancients 
+7 	 Herselves 
+7 	 Titled Maid 
+7 	 Torte Le Magic 
+7 	 Witch of Love Potion 
+7 	 Magical and Hopeless 
+7 	 Sacred Battle 
+8 	 稀翁玉　～ Fairy Dance 
+8 	 天鹅绒少女战　～ Velvet Battle 
+8 	 Castle Explorer -in the Sky- 
+8 	 俄耳甫斯的诗　～ Pseudoclassic 
+8 	 新幻想　～ New Fantasy 
+8 	 奥尔良的圣骑士 
+8 	 My Maid, Sweet Maid 
+8 	 樱花之恋塚　～ Flower of Japan 
+8 	 少女战士　～ Heart of Valkyrie 
+8 	 神秘的人偶　～ God Knows 
+8 	 东方幻想的音乐 
+8 	 黄昏的魔术师 
+8 	 Magic of Life 
+8 	 梦幻回廊 
+8 	 蓬莱幻想　～ far East 
+8 	 飞翔在夜晚的鸠山 
+9 	 比赤色更红的梦 
+9 	 如鬼灯般的红色之魂 
+9 	 妖魔夜行 
+9 	 Lunate Elf 
+9 	 活泼的纯情小姑娘 
+9 	 上海红茶馆　～ Chinese Tea 
+9 	 明治十七年的上海爱丽丝 
+9 	 巴瓦鲁魔法图书馆 
+9 	 Locked Girl　～ 少女密室 
+9 	 女仆与血之怀表 
+9 	 月时计　～ Luna Dial 
+9 	 特佩斯的年幼末裔 
+9 	 献给已逝公主的七重奏 
+9 	 魔法少女们的百年祭 
+9 	 U.N.OWEN就是她吗？ 
+9 	 比红色更虚无的永远 
+9 	 红楼　～ Eastern Dream... 
+10 	 蓬莱传说 
+10 	 人偶之森 
+10 	 空中飞翔的巫女不可思议的每天 
+11 	 妖妖梦　～ Snow or Cherry Petal 
+11 	 无何有之乡　～ Deep Mountain 
+11 	 Crystallize Silver 
+11 	 远野幻想物语 
+11 	 凋叶棕（withered leaf） 
+11 	 布加勒斯特的人偶师 
+11 	 人偶裁判　～ 玩弄人形的少女 
+11 	 天空的花都 
+11 	 幽灵乐团　～ Phantom Ensemble 
+11 	 东方妖妖梦　～ Ancient Temple 
+11 	 广有射怪鸟事　～ Till When? 
+11 	 Ultimate Truth 
+11 	 幽雅地绽放吧，墨染的樱花　～ Border of Life 
+11 	 Border of Life 
+11 	 妖妖跋扈 
+11 	 少女幻葬　～ Necro-Fantasy 
+11 	 妖妖跋扈　～ Who done it! 
+11 	 Necro-Fantasia 
+11 	 春风之梦 
+11 	 樱花樱花　～ Japanize Dream... 
+12 	 走在夜晚的莲台野 
+12 	 少女秘封俱乐部 
+12 	 古老的冥界寺 
+12 	 幻视之夜　～ Ghostly Eyes 
+12 	 魔术师梅莉 
+12 	 月之妖鸟、化猫之幻 
+12 	 过去的花　～ Fairy of Flower 
+12 	 幻想的永远祭 
+13 	 永夜抄　～ Eastern Night. 
+13 	 蠢蠢的秋月　～ Mooned Insect 
+13 	 夜雀的歌声　～ Night Bird 
+13 	 已经只能听见歌声了 
+13 	 令人怀念的东方之血　～ Old World 
+13 	 Plain Asia 
+13 	 永夜的报应　～ Imperishable Night 
+13 	 灰姑娘的笼子　～ Kagome-Kagome 
+13 	 狂气之瞳　～ Invisible Full Moon 
+13 	 Voyage1969 
+13 	 千年幻想乡　～ History of the Moon 
+13 	 竹取飞翔　～ Lunatic Princess 
+13 	 Voyage1970 
+13 	 Extend Ash　～ 蓬莱人 
+13 	 飘上月球，不死之烟 
+13 	 月见草 
+13 	 Eternal Dream ～ 幽玄的枫树 
+13 	 东方妖怪小町 
+14 	 萃梦想 
+14 	 Demystify Feast 
+14 	 夜幕降临　～ Evening Star 
+14 	 御伽之国的鬼岛　～ Missing Power 
+14 	 夏明 
+14 	 东方萃梦想 
+14 	 魔所 
+14 	 月轮 
+14 	 遍参 
+14 	 内心 
+14 	 间奏曲 
+14 	 东风 
+14 	 森闲 
+14 	 仰空 
+14 	 幽境 
+14 	 稀客 
+14 	 红夜 
+14 	 战迅 
+14 	 祸机 
+14 	 碎月 
+15 	 童祭　～ Innocent Treasures 
+15 	 华胥之梦 
+15 	 科学世纪的少年少女 
+15 	 梦境与现实的境界 
+16 	 风神少女 
+17 	 花映塚　～ Higan Retour 
+17 	 春色小径　～ Colorful Path 
+17 	 Oriental Dark Flight 
+17 	 Flowering Night 
+17 	 宇佐大人的白旗 
+17 	 剧毒身体　～ Forsaken Doll 
+17 	 今昔幻想乡　～ Flower Land 
+17 	 彼岸归航　～ Riverside View 
+17 	 第六十年的东方审判　～ Fate of Sixty Years 
+17 	 映花之塚 
+17 	 此岸之塚 
+17 	 花如幻想一般 
+17 	 魂之花　～ Another Dream... 
+18 	 天狗的笔记　～　Mysterious Note 
+18 	 风的循环　～　Wind Tour 
+18 	 天狗正凝视着　～　Black Eyes 
+18 	 东之国的不眠夜 
+18 	 回忆京都 
+19 	 广重36号　～ Neo Super-Express 
+19 	 53分钟的蓝色大海 
+19 	 青木原的传说 
+19 	 最澄澈的空与海 
+20 	 欢迎来到月面旅行团 
+20 	 天空的格林尼治 
+20 	 轮椅上的未来宇宙 
+20 	 卫星露天咖啡屋 
+20 	 G Free 
+20 	 大空魔术　～ Magical Astronomy 
+20 	 月的另一侧 
+21 	 Japanese Saga 
+21 	 阿礼的孩子 
+22 	 Sunny Rutile Flection 
+22 	 因夜失眠 
+22 	 妖精灿烂的样子 
+23 	 被封印的众神 
+23 	 眷爱众生之神　～ Romantic Fall 
+23 	 会受稻田姬的斥责啦 
+23 	 厄神降临之路　～ Dark Road 
+23 	 命运的阴暗面 
+23 	 众神眷恋的幻想乡 
+23 	 芥川龙之介的河童　～ Candid Friend 
+23 	 Fall of Fall　～ 秋意渐浓之瀑 
+23 	 妖怪之山　～ Mysterious Mountain 
+23 	 少女曾见的日本原风景 
+23 	 信仰是为了虚幻之人 
+23 	 御柱的墓场　～ Grave of Being 
+23 	 神圣庄严的古战场　～ Suwa Foughten Field 
+23 	 明日之盛，昨日之俗 
+23 	 Native Faith 
+23 	 山脚的神社 
+23 	 神明降下恩惠之雨　～ Sylphid Dream 
+23 	 Player's Score 
+24 	 酒鬼的雷姆利亚 
+25 	 Theme of Eastern Story 
+26 	 桑尼米尔克的红雾异变 
+26 	 雪月樱花之国 
+26 	 Star Voyage2008 
+27 	 妖怪宇宙旅行 
+27 	 绵月的符卡　～ Lunatic Blue 
+28 	 绯想天 
+28 	 日常坐卧 
+28 	 地之色乃黄色 
+28 	 甲论乙驳 
+28 	 风光明媚 
+28 	 散发着香气的树叶花 
+28 	 飞舞的水飞沫 
+28 	 以鱼驱蝇 
+28 	 放纵不羁 
+28 	 嘲讽的游戏 
+28 	 冷吟闲醉 
+28 	 云外苍天 
+28 	 黑海中的绯红　～ Legendary Fish 
+28 	 天衣无缝 
+28 	 有顶天变　～ Wonderful Heaven 
+28 	 幼小的有顶天 
+28 	 暮色苍然 
+28 	 东方绯想天 
+29 	 地灵们的起床 
+29 	 昏暗的风穴 
+29 	 被封印的妖怪 ～ Lost Place 
+29 	 阻绝人迹之桥 
+29 	 绿眼的嫉妒 
+29 	 漫游旧地狱街道 
+29 	 大江山的花之酒宴 
+29 	 Heartfelt Fancy 
+29 	 少女觉 ～ 3rd eye 
+29 	 废狱摇篮曲 
+29 	 尸体旅行　～ Be of good cheer! 
+29 	 业火地幔 
+29 	 灵知的太阳信仰　～ Nuclear Fusion 
+29 	 Last Remote 
+29 	 哈德曼的妖怪少女 
+29 	 地灵们的归家 
+29 	 能源黎明 ～ Future Dream... 
+30 	 可爱的大战争叠奏曲 
+31 	 好奇的上海古牌 
+32 	 魔法使的忧郁 
+33 	 青空之影 
+33 	 春之岸边 
+33 	 小小的贤将 
+33 	 封闭的云中通路 
+33 	 请注意万年备用伞 
+33 	 Sky Ruin 
+33 	 守旧老爹与前卫少女 
+33 	 幽灵客船的穿越时空之旅 
+33 	 Captain Murasa 
+33 	 魔界地方都市秘境 
+33 	 虎纹的毘沙门天 
+33 	 法界之火 
+33 	 感情的摩天楼　～ Cosmic Mind 
+33 	 夜空中的UFO恋曲 
+33 	 平安时代的外星人 
+33 	 妖怪寺 
+33 	 空中的归路　～　Sky Dream 
+34 	 你见到了那个影子吗 
+34 	 传说的巨神 
+34 	 我们的非想天则 
+34 	 人偶存在的风景 
+34 	 悠久的蒸汽机关 
+34 	 未知物Ｘ　～ Unfound Adventure 
+34 	 空中飘浮的物体Ｘ 
+34 	 巨大的影子与渺小的结局 
+35 	 妖精冒险谭 
+35 	 两个世界 
+36 	 Newshound 
+36 	 你所在之城的怪事 
+36 	 现代妖怪殖民地 
+36 	 复仇女神的要塞 
+36 	 无间之钟　～ Infinite Nightmare 
+36 	 曲名不详 
+37 	 神域的捉迷藏生活 
+38 	 春之冰精 
+38 	 赌上性命去恶作剧 
+38 	 时刻旺盛的好奇心 
+38 	 午夜的妖精舞会 
+38 	 妖精大战争　～ Fairy Wars 
+38 	 Loose Rain 
+38 	 Magus Night 
+38 	 春之冰精　- 静 - 
+39 	 未知之花 魅知之旅 
+40 	 欲望深重的灵魂 
+40 	 死灵的夜樱 
+40 	 Ghost Lead 
+40 	 欢迎来到妖怪寺 
+40 	 门前的妖怪小姑娘 
+40 	 在美妙的墓地里住下吧 
+40 	 Rigid Paradise 
+40 	 Desire Drive 
+40 	 古老的元神 
+40 	 梦殿大祀庙 
+40 	 大神神话传 
+40 	 小小欲望的星空 
+40 	 圣德传说 ～ True Administrator 
+40 	 后院的妖怪参拜道 
+40 	 佐渡的二岩 
+40 	 神社的新风 
+40 	 Desire Dream 
+41 	 卫星鸟船 
+41 	 特洛伊群的密林 
+41 	 天鸟船神社 
+41 	 天鸟船神社的结界 
+41 	 漂浮于宇宙之中的幻想乡 
+42 	 绿意盎然的疗养院 
+42 	 被牛引到善光寺 
+42 	 阿加尔塔之风 
+42 	 伊奘诺物质 
+42 	 收集日本各地的不可思议 
+43 	 幻想乡的二岩 
+43 	 亡失的情感 
+43 	 尘世不变的悲观主义 
+43 	 心绮楼囃子 
+43 	 有人气的场所 
+43 	 无人气的场所 
+43 	 丑时三刻的村庄 
+43 	 本日的头版头条 
+43 	 晓云 
+43 	 官板黄昏新闻 
+44 	 尘世不变的悲观主义～心绮楼囃子 
+44 	 出演者选择 
+44 	 没用上的场所 
+44 	 Lastword发动 
+45 	 不可思议的驱魔棒 
+45 	 Mist Lake 
+45 	 秘境的人鱼 
+45 	 往来于运河的人与妖 
+45 	 柳树下的杜拉罕 
+45 	 满月的竹林 
+45 	 孤独的狼人 
+45 	 Magical Storm 
+45 	 幻想净琉璃 
+45 	 沉向空中的辉针城 
+45 	 Reverse Ideology 
+45 	 针小棒大的天守阁 
+45 	 辉光之针的小人族　～ Little Princess 
+45 	 魔力的雷云 
+45 	 原初的节拍　～ Pristine Beat 
+45 	 小槌的魔力 
+45 	 非常非常神奇的道具们 
+46 	 燃起犯规的狼烟 
+46 	 以犯规对不可能的弹幕 
+46 	 Midnight Spell Card 
+46 	 浪漫逃飞行 
+46 	 永远的三日天下 
+47 	 震撼心灵的都市传说 
+47 	 幻想乡不可思议发现 
+47 	 有珠子的日常 
+47 	 显现的传承形态 
+47 	 时代风潮的造访 
+47 	 价值不明 
+47 	 相信可能性 
+47 	 知晓真相之人 
+47 	 外界民俗 
+47 	 各自的结局 
+47 	 被揭晓的深秘 
+47 	 灵异任你选 
+47 	 七玉搜集大摊牌 
+47 	 公正的争夺 
+47 	 对跖点之钟 
+47 	 竹林大火 
+47 	 华狭间的战场 
+47 	 Last Occultism　～ 现世的秘术师 
+48 	 容貌错乱　～ Horrible Night 
+49 	 宇宙巫女现身 
+49 	 忘不了，那曾依藉的绿意 
+49 	 兔已着陆 
+49 	 湖上倒映着洁净的月光 
+49 	 九月的南瓜 
+49 	 飞翔于宇宙的不可思议巫女 
+49 	 永远的春梦 
+49 	 冻结的永远之都 
+49 	 逆转的命运之轮 
+49 	 遥遥38万公里的航程 
+49 	 星条旗的小丑 
+49 	 故乡之星倒映之海 
+49 	 Pure Furies　～ 心之所在 
+49 	 前所未见的噩梦世界 
+49 	 Pandemonic Planet 
+49 	 从神社所见之月 
+49 	 宇宙巫女归还 
+50 	 二人不值一提的博物志 
+50 	 Dr. Latency的令人不眠之瞳 
+50 	 比普朗克更短的须臾 
+50 	 薛定谔的怪猫 
+50 	 禁忌的膜壁 
+51 	 Bar·Old Adam 
+51 	 燕石博物志所带来的黑暗 
+51 	 Outsider Cocktail 
+51 	 旧世界的冒险酒吧 
+51 	 宿醉者的同床异梦 
+52 	 识文解意的爱书人 
+53 	 Mysterious Shrine 
+54 	 樱花舞落的天空 
+54 	 希望之星直升青霄 
+54 	 盛夏的妖精梦 
+54 	 无色之风吹拂妖怪之山 
+54 	 深山的遭遇 
+54 	 徜徉于樱色之海 
+54 	 一对的神兽 
+54 	 幻想的White Traveler 
+54 	 魔法的笠地藏 
+54 	 禁断之门对面，是此世还是彼世 
+54 	 Crazy Back Dancers 
+54 	 Into Backdoor 
+54 	 被秘匿的四个季节 
+54 	 门再也进不去了 
+54 	 秘神摩多罗　～ Hidden Star in All Seasons. 
+54 	 不自然的自然 
+54 	 白色旅人 
+55 	 Mushroom·Waltz 
+55 	 圣辇船飞向天空 
+55 	 法力之下的平等 
+55 	 恒常不变的参庙祀 
+55 	 光辉的天球仪 
+55 	 泽之河童的技术力 
+55 	 地底绽放的蔷薇 
+55 	 在深绿的狸森里 
+55 	 不灭的赤魂 
+55 	 落日映照下的逆城 
+55 	 克服万千之试炼 
+55 	 永远延续的回廊 
+55 	 Sleep Sheep·Parade 
+55 	 到达有顶天 
+55 	 凭坐处于梦与现实之间　～ Necro-Fantasia 
+55 	 今宵是飘逸的自我主义者(Live ver)　～ Egoistic Flowers. 
+55 	 凭投依合 
+55 	 连带责人 
+55 	 合缘奇缘 
+55 	 异心同体 
+55 	 豪言壮语 
+55 	 智略纵横 
+55 	 意气洋洋 
+55 	 开演间近 
+55 	 行云流水 
+55 	 异变的种子 
+55 	 疑惑的萌芽 
+55 	 含苞待放的凭依华 
+55 	 通往真相的枝叶 
+55 	 争奇斗艳的凭依华 
+55 	 飞舞飘散的凭依华吹雪 
+56 	 凭依华 
+57 	 噩梦日记 
+57 	 Lucid Dreamer 
+57 	 Lunatic Dreamer 
+57 	 Nightmare Diary 
+58 	 沉默的兽灵 
+58 	 只有地藏知晓的哀叹 
+58 	 Jelly Stone 
+58 	 Lost River 
+58 	 石之婴儿与水中牛 
+58 	 不朽的曼珠沙华 
+58 	 Seraphic Chicken 
+58 	 Unlocated Hell 
+58 	 Tortoise Dragon　～ 幸运与不幸 
+58 	 Beast Metropolis 
+58 	 陶瓷的杖刀人 
+58 	 Electric Heritage 
+58 	 寄世界于偶像　～ Idoratrize World 
+58 	 闪耀的弱肉强食法则 
+58 	 圣德太子的天马　～ Dark Pegasus 
+58 	 畜生们的休息 
+58 	 从地下的归还 
